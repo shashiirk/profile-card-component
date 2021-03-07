@@ -91,21 +91,6 @@ body {
   color: gray;
 }
 
-.attribution {
-  text-align: center;
-  font-size: 14px;
-  line-height: 1.4;
-  padding: 14px;
-  color: white;
-  background-color: rgba(25, 161, 173, 0.45);
-}
-
-.attribution a {
-  text-decoration: none;
-  color: white;
-  font-weight: 700;
-}
-
 @media (max-width: 375px) {
   .container {
     width: 85%;
